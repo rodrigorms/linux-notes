@@ -11,3 +11,5 @@
 9. mkdir [name]      Create a directory
 10.grep [pattern] [file] Search for a pattern in a file
  
+## Vim Section ##
+
